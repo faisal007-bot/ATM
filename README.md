@@ -1,3 +1,3 @@
-Some of basic programs to improve logic 
-Programs include operations on numbers strings
-Arrays character and other logic building programs.
+Simple implementation of ATM working using core java 
+That includes withdrawal , Deposit and Enquiry
+Operations using a particular users credentials .
